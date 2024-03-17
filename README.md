@@ -14,3 +14,4 @@
 - Testing
 - OOP
 - Rest API
+- Machine Learning
