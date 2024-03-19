@@ -6,7 +6,7 @@
 
 ## Who am I?
 
-- 🎓 A Computer Science student at AGH UST in Krakow
+- 🎓 A 'Computer Science and Intelligent Systems' student at AGH UST in Krakow
 - 💻 A programming, data engineering, and artificial intelligence enthusiast
 - ⚽ A sports lover
 
