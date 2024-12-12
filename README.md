@@ -6,7 +6,7 @@
 ## 🌟 About Me
 
 - 🎓 **Bachelor's Student** in **Computer Science and Intelligent Systems** at [AGH University of Science and Technology](https://www.agh.edu.pl/) in Krakow, Poland
-- 💻 Enthusiast of **Machine Learning**, **Data Engineering**, and **Artificial Intelligence**
+- 💻 Enthusiast of **Machine Learning**, **Data Science**, and **Software Engineering**
 - ⚙️ Passionate about building impactful solutions that combine cutting-edge technology with practical applications
 - 🌍 **Languages:** Fluent in Polish (native) and English (C1 certified)
 
