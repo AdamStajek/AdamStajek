@@ -51,5 +51,4 @@ An end-to-end application for translating Polish Sign Language gestures captured
 ## 📬 Let's Connect!
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/adam-stajek-2a1306243/)
-- 💻 [GitHub](https://github.com/AdamStajek)
 - 📧 Email: adasta146@gmail.com
