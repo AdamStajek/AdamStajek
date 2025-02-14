@@ -21,7 +21,7 @@
 
 ### Machine Learning & AI
 - Expertise in **Modern NLP**, including working with **LLMs** and fine-tuning advanced language models
-- Development of **Deep Learning Models** for computer vision
+- Development of **Deep Learning Models** for Computer Vision
 
 ### Tools & Practices
 - **Version Control:** Git
@@ -31,13 +31,31 @@
 
 ---
 
-## 🚀 Best Project
+## 🚀 Best Projects
 
 ### [PSL Translator](https://github.com/AI-LAB-AGH/PSL-Translator)
 An end-to-end application for translating Polish Sign Language gestures captured live on camera into fluent text. 
 - Built an NLP model using the **PLT5 Transformer** for translating PSL transcripts into coherent Polish sentences.
 - Leveraged **synthetic datasets** created with **LLMs**.
 - **Technologies:** PyTorch, Transformers, OpenAI
+
+### [Speaklitycs](https://github.com/Speaklitycs)  
+An AI-powered platform for analyzing speech quality in videos to enhance communication skills.  
+- Assesses **fluency, pronunciation, grammar, and coherence** using ML algorithms.  
+- Detects **emotions and non-verbal cues** for a comprehensive analysis.  
+- **Technologies:** Django, PyTorch, SQLite  
+
+### [Peer2Peer Network for Distributed Computation](https://github.com/lidiamoryc/DesignPatterns)  
+A decentralized **peer-to-peer (P2P) network** for distributing computational tasks efficiently.  
+- Enables **grid search and task scheduling** across multiple nodes.  
+- Ensures **fault tolerance and scalability** through dynamic peer management.  
+- **Technologies:** Python  
+
+### [Intelligent Weather Station](https://github.com/IOT-ISI24/)  
+An IoT system for real-time weather monitoring using **ESP32 and MQTT**.  
+- Captures **temperature, humidity, and pressure** via **BME280 sensors**.  
+- Stores and visualizes data using a **Django backend and Angular frontend**.  
+- **Technologies:** ESP32, MQTT, Django, Angular, SQLite/PostgreSQL  
 ---
 
 ## 🎤 Hackathons & Achievements
