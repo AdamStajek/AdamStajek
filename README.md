@@ -39,6 +39,14 @@ An end-to-end application for translating Polish Sign Language gestures captured
 - Leveraged **synthetic datasets** created with **LLMs**.
 - **Technologies:** PyTorch, Transformers, OpenAI
 
+### [Ensemble BERT4Rec – RecSys Challenge 2025](https://github.com/RecSys2025-AGH/RecSys2025)
+A system for generating **Universal Behavioral Profiles** of users from large‑scale e‑commerce interaction logs, designed to perform well across multiple predictive tasks.  
+
+- Developed an **ensemble of BERT4Rec sequential recommendation models**, each trained separately on a distinct interaction type (purchases, cart events, searches, page visits).  
+- Combined embeddings from all models via concatenation to form rich, universal user representations.  
+- Outperformed the strong feature‑engineering baseline across open and hidden tasks, achieving **top‑50 placement out of nearly 500 teams**.  
+- **Technologies:** PyTorch, Transformers, Self‑Supervised Learning, Sequence Modeling  
+
 ### [Speaklitycs](https://github.com/Speaklitycs)  
 An AI-powered platform for analyzing speech quality in videos to enhance communication skills.  
 - Assesses **fluency, pronunciation, grammar, and coherence** using ML algorithms.  
@@ -51,18 +59,13 @@ A decentralized **peer-to-peer (P2P) network** for distributing computational ta
 - Ensures **fault tolerance and scalability** through dynamic peer management.  
 - **Technologies:** Python  
 
-### [Intelligent Weather Station](https://github.com/IOT-ISI24/)  
-An IoT system for real-time weather monitoring using **ESP32 and MQTT**.  
-- Captures **temperature, humidity, and pressure** via **BME280 sensors**.  
-- Stores and visualizes data using a **Django backend and Angular frontend**.  
-- **Technologies:** ESP32, MQTT, Django, Angular, SQLite/PostgreSQL  
----
 
 ## 🎤 Hackathons & Achievements
 
 - 🏆 **3rd Place** at the **Cassini AI Hackathon for EU Defence & Security (2024)**
 - 📢 Active **AI LAB AGH Member**, contributing to research, conferences, and hackathons
 - 🚀 Presented the **PSL Translator** at the Krakow Tech Summit 2024
+- 💡 Achieved **top 50** place out of nearly 500 teams at the **Recsys Challenge 2025 by Synerise**
 
 ---
 
