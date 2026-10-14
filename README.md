@@ -1,75 +1,45 @@
 <h1 align="center">Hi, I'm Adam Stajek 👋</h1>
-<p align="center">Welcome to my GitHub profile! 🚀</p>
+<p align="center"><strong>Machine Learning Engineer | Software Engineer</strong></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/adam-stajek">LinkedIn</a> ·
+  <a href="mailto:adasta146@gmail.com">Email</a>
+</p>
 
----
+## About Me
 
-## 🌟 About Me
+I'm a Machine Learning Engineer with experience building and deploying end-to-end AI and data-driven solutions. At **Nokia**, I worked as a **Python AI Engineer** (July 2025 – September 2026), developing production-grade tools for internal teams, from data providers to MCP servers, to streamline integration and technical workflows.
 
-- 🎓 **Bachelor's Student** in **Computer Science and Intelligent Systems** at [AGH University of Science and Technology](https://www.agh.edu.pl/) in Krakow, Poland
-- 💻 Enthusiast of **Machine Learning**, **Data Science**, and **Software Engineering**
-- ⚙️ Passionate about building impactful solutions that combine cutting-edge technology with practical applications
-- 🌍 **Languages:** Fluent in Polish (native) and English (C1 certified)
+I earned a **Bachelor of Engineering in Computer Science and Intelligent Systems** from **AGH University of Science and Technology** (January 2026) and am pursuing an **MSc in Machine Learning** at the **University of Warsaw** (October 2026 – June 2028).
 
----
+## 🏆 Hackathons & Achievements
 
-## 🛠️ Skills
+### 🥇 1st Place — HackYeah 2026, “Cracow Without Barriers”
+**ByTheWay — Accessibility Data Platform**
 
-### Programming
-- **Languages:** Python, Java, C#, Typescript, SQL
-- **Frameworks & Libraries:** PyTorch, Transformers, Keras, Pandas, Numpy, Matplotlib
-- **Web Development:** Django (Backend), Angular (Frontend)
+A data-driven web platform combining public datasets and crowdsourced observations to maintain an up-to-date database of urban accessibility barriers. It uses confidence scoring, data freshness tracking, and AI-assisted community verification to support personalized accessibility-aware route planning.
 
-### Machine Learning & AI
-- Expertise in **Modern NLP**, including working with **LLMs** and fine-tuning advanced language models
-- Development of **Deep Learning Models** for Computer Vision
+### 🥇 1st Place — AI KrakHack 2026
+**Multi-Agent Cycling Infrastructure Simulation**
 
-### Tools & Practices
-- **Version Control:** Git
-- **Containerization:** Docker
-- **API Development:** RESTful APIs
-- **Testing:** Pytest
+Independently developed a multi-agent simulation framework to predict bottlenecks in cycling networks under different traffic conditions, supporting data-driven urban infrastructure planning and investment decisions.
 
----
+## 🚀 Projects
 
-## 🚀 Best Projects
+### [PSL Translator](https://github.com/AI-LAB-AGH/PSL-Translator) — Presented at AINOW 2025
 
-### [PSL Translator](https://github.com/AI-LAB-AGH/PSL-Translator)
-An end-to-end application for translating Polish Sign Language gestures captured live on camera into fluent text. 
-- Built an NLP model using the **PLT5 Transformer** for translating PSL transcripts into coherent Polish sentences.
-- Leveraged **synthetic datasets** created with **LLMs**.
-- **Technologies:** PyTorch, Transformers, OpenAI
+An end-to-end application that translates live-camera **Polish Sign Language** gestures into fluent Polish text. It combines real-time computer vision–based gesture recognition with a **PLT5 transformer** for natural-language generation.
 
-### [Ensemble BERT4Rec – RecSys Challenge 2025](https://github.com/RecSys2025-AGH/RecSys2025)
-A system for generating **Universal Behavioral Profiles** of users from large‑scale e‑commerce interaction logs, designed to perform well across multiple predictive tasks.  
+**Technologies:** PyTorch, Transformers, OpenAI, PyQt
 
-- Developed an **ensemble of BERT4Rec sequential recommendation models**, each trained separately on a distinct interaction type (purchases, cart events, searches, page visits).  
-- Combined embeddings from all models via concatenation to form rich, universal user representations.  
-- Outperformed the strong feature‑engineering baseline across open and hidden tasks, achieving **top‑50 placement out of nearly 500 teams**.  
-- **Technologies:** PyTorch, Transformers, Self‑Supervised Learning, Sequence Modeling  
+### [BERT4Rec Ensemble — RecSys Challenge 2025](https://github.com/RecSys2025-AGH/RecSys2025)
 
-### [Speaklitycs](https://github.com/Speaklitycs)  
-An AI-powered platform for analyzing speech quality in videos to enhance communication skills.  
-- Assesses **fluency, pronunciation, grammar, and coherence** using ML algorithms.  
-- Detects **emotions and non-verbal cues** for a comprehensive analysis.  
-- **Technologies:** Django, PyTorch, SQLite  
+A transformer-based recommender system trained on approximately **170 million behavioral events** from **19 million users**. Separate BERT4Rec models process purchases, cart actions, searches, and page visits; their embeddings are fused into universal user representations for multiple prediction tasks.
 
-### [Peer2Peer Network for Distributed Computation](https://github.com/lidiamoryc/DesignPatterns)  
-A decentralized **peer-to-peer (P2P) network** for distributing computational tasks efficiently.  
-- Enables **grid search and task scheduling** across multiple nodes.  
-- Ensures **fault tolerance and scalability** through dynamic peer management.  
-- **Technologies:** Python  
+**Technologies:** PyTorch, Transformers, Pandas, NumPy
 
+## 🛠️ Technical Skills
 
-## 🎤 Hackathons & Achievements
-
-- 🏆 **3rd Place** at the **Cassini AI Hackathon for EU Defence & Security (2024)**
-- 📢 Active **AI LAB AGH Member**, contributing to research, conferences, and hackathons
-- 🚀 Presented the **PSL Translator** at the Krakow Tech Summit 2024
-- 💡 Achieved **top 50** place out of nearly 500 teams at the **Recsys Challenge 2025 by Synerise**
-
----
-
-## 📬 Let's Connect!
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/adam-stajek-2a1306243/)
-- 📧 Email: adasta146@gmail.com
+- **AI & Machine Learning:** PyTorch, Transformers, scikit-learn, state-of-the-art ML techniques, PydanticAI, LangChain
+- **Data:** Python, Pandas, NumPy, Polars, Matplotlib, Plotly, SQL
+- **MLOps & Engineering:** MLflow, Weights & Biases, Docker, Pytest, Linux, Git (GitHub/GitLab)
+- **Web:** Django, FastAPI, Angular
